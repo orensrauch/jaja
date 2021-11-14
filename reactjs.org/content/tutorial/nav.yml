@@ -1,0 +1,791 @@
+- title: Tutorial
+  items:
+    - id: document-information
+      title: Document Information
+      href: /tutorial/tutorial.html#document-information
+      forceInternal: true
+      subitems:
+        - id: about-this-guide
+          title: About This Guide
+          href: /tutorial/tutorial.html#about-this-guide
+          forceInternal: true
+
+        - id: how-to-use-this-guide
+          title: How To Use This Guide
+          href: /tutorial/tutorial.html#how-to-use-this-guide
+          forceInternal: true
+
+    - id: main-subjects-in-this-guide
+      title: Main Subjects In This Guide
+      href: /tutorial/tutorial.html#main-subjects-in-this-guide
+      forceInternal: true
+
+    - id: related-documentation
+      title: Related Documentation
+      href: /tutorial/tutorial.html#related-documentation
+      forceInternal: true
+
+    - id: what-is-safe-t-sde
+      title: What is Safe-T SDE?
+      href: /tutorial/tutorial.html#what-is-safe-t-sde
+      forceInternal: true
+
+    - id: secure-data-exchange
+      title: Secure Data Exchange
+      href: /tutorial/tutorial.html#secure-data-exchange
+      forceInternal: true
+
+    - id: integrated-data-security-platform
+      title: Integrated Data Security Platform
+      href: /tutorial/tutorial.html#integrated-data-security-platform
+      forceInternal: true
+
+    - id: secure-virtual-vaults-svv-technology
+      title: Secure Virtual Vaults (SVV) technology
+      href: /tutorial/tutorial.html#secure-virtual-vaults-svv-technology
+      forceInternal: true
+
+    - id: safe-t-sde-security-policy-enforcement
+      title: Safe-T SDE Security Policy Enforcement
+      href: /tutorial/tutorial.html#safe-t-sde-security-policy-enforcement
+      forceInternal: true
+
+    - id: overview-safe-t-sde-objects
+      title: Overview Safe-T SDE Objects
+      href: /tutorial/tutorial.html#overview-safe-t-sde-objects
+      forceInternal: true
+
+    - id: safe-spaces
+      title: Safe Spaces
+      href: /tutorial/tutorial.html#safe-spaces
+      forceInternal: true
+
+    - id: policies
+      title: Policies
+      href: /tutorial/tutorial.html#policies
+      forceInternal: true
+
+    - id: groups
+      title: Groups
+      href: /tutorial/tutorial.html#groups
+      forceInternal: true
+
+    - id: default-groups
+      title: Default Groups
+      href: /tutorial/tutorial.html#default-groups
+      forceInternal: true
+
+    - id: users
+      title: Users
+      href: /tutorial/tutorial.html#users
+      forceInternal: true
+
+    - id: safe-t-object-relationships
+      title: Safe-T Object Relationships
+      href: /tutorial/tutorial.html#safe-t-object-relationships
+      forceInternal: true
+
+    - id: about-permissions
+      title: About Permissions
+      href: /tutorial/tutorial.html#about-permissions
+      forceInternal: true
+
+    - id: objects-managed-with-the-safe-t-sde-administration-console
+      title: Objects Managed With The Safe-T SDE Administration Console
+      href: /tutorial/tutorial.html#objects-managed-with-the-safe-t-sde-administration-console
+      forceInternal: true
+
+    - id: objects-managed-with-the-safe-t-sde-configuration-tool
+      title: Objects Managed With The Safe-T SDE Configuration Tool
+      href: /tutorial/tutorial.html#objects-managed-with-the-safe-t-sde-configuration-tool
+      forceInternal: true
+
+    - id: safe-t-sde-server-interfaces
+      title: Safe-T SDE Server Interfaces
+      href: /tutorial/tutorial.html#safe-t-sde-server-interfaces
+      forceInternal: true
+
+    - id: safe-t-sde-administration-console
+      title: Safe-T SDE Administration Console
+      href: /tutorial/tutorial.html#safe-t-sde-administration-console
+      forceInternal: true
+
+    - id: safe-t-sde-configuration-tool
+      title: Safe-T SDE Configuration Tool
+      href: /tutorial/tutorial.html#safe-t-sde-configuration-tool
+      forceInternal: true
+
+    - id: safe-t-sde-end-user-clients
+      title: Safe-T SDE End User Clients
+      href: /tutorial/tutorial.html#safe-t-sde-end-user-clients
+      forceInternal: true
+
+    - id: safe-t-outlook-plug-in
+      title: Safe-T Outlook Plug-in
+      href: /tutorial/tutorial.html#safe-t-outlook-plug-in
+      forceInternal: true
+
+    - id: safe-t-web-portal
+      title: Safe-T Web Portal
+      href: /tutorial/tutorial.html#safe-t-web-portal
+      forceInternal: true
+
+    - id: safe-t-web-portal-access
+      title: Safe-T Web Portal
+      href: /tutorial/tutorial.html#safe-t-web-portal-access
+      forceInternal: true
+
+    - id: safe-t-configuration-tool-initialization-tasks
+      title: Safe-T Configuration Tool Initialization Tasks
+      href: /tutorial/tutorial.html#safe-t-configuration-tool-initialization-tasks
+      forceInternal: true
+
+    - id: apply-external-tools-to-a-safe-space
+      title: Apply External Tools To A Safe Space
+      href: /tutorial/tutorial.html#apply-external-tools-to-a-safe-space
+      forceInternal: true
+
+    - id: apply-an-external-tools-template-to-a-safe-space
+      title: Apply An External Tools Template To A Safe Space
+      href: /tutorial/tutorial.html#apply-an-external-tools-template-to-a-safe-space
+      forceInternal: true
+
+    - id: safe-t-administration-console-day-to-day-tasks
+      title: "Safe-T Administration Console: Day-To-Day Tasks"
+      href: /tutorial/tutorial.html#safe-t-administration-console-day-to-day-tasks
+      forceInternal: true
+
+    - id: what-are-safe-t-sde-users
+      title: What Are Safe-T SDE Users
+      href: /tutorial/tutorial.html#what-are-safe-t-sde-users
+      forceInternal: true
+
+    - id: how-to-create-new-users
+      title: How To Create New Users
+      href: /tutorial/tutorial.html#how-to-create-new-users
+      forceInternal: true
+
+    - id: how-to-use-advanced-search
+      title: How To Use Advanced Search
+      href: /tutorial/tutorial.html#how-to-use-advanced-search
+      forceInternal: true
+
+    - id: how-to-find-users
+      title: How To Find Users
+      href: /tutorial/tutorial.html#how-to-find-users
+      forceInternal: true
+
+    - id: how-to-find-safe-spaces
+      title: How To Find Safe Spaces
+      href: /tutorial/tutorial.html#how-to-find-safe-spaces
+      forceInternal: true
+
+    - id: how-to-find-policies
+      title: How To Find Policies
+      href: /tutorial/tutorial.html#how-to-find-policies
+      forceInternal: true
+
+    - id: how-to-create-groups
+      title: How To Create Groups
+      href: /tutorial/tutorial.html#how-to-create-groups
+      forceInternal: true
+
+    - id: create-new-group
+      title: Create A New Group
+      href: /tutorial/tutorial.html#create-new-group
+      forceInternal: true
+
+    - id: create-new-users
+      title: Create New Users
+      href: /tutorial/tutorial.html#create-new-users
+      forceInternal: true
+
+    - id: edit-users
+      title: Edit Users
+      href: /tutorial/tutorial.html#edit-users
+      forceInternal: true
+
+    - id: configure-group-properties
+      title: Configure Group Properties
+      href: /tutorial/tutorial.html#configure-group-properties
+      forceInternal: true
+
+    - id: group-properties-security-distribution-group
+      title: Group Properties Security Distribution Group
+      href: /tutorial/tutorial.html#group-properties-security-distribution-group
+      forceInternal: true
+
+    - id: group-properties-safe-spaces
+      title: Group Properties Safe Spaces
+      href: /tutorial/tutorial.html#group-properties-safe-spaces
+      forceInternal: true
+
+    - id: group-properties-advanced
+      title: Group Properties Advanced
+      href: /tutorial/tutorial.html#group-properties-advanced
+      forceInternal: true
+
+    - id: group-properties-security-tab
+      title: Group Properties Security tab
+      href: /tutorial/tutorial.html#group-properties-security-tab
+      forceInternal: true
+
+    - id: group-properties-delivery-tab
+      title: Group Properties Delivery tab
+      href: /tutorial/tutorial.html#group-properties-delivery-tab
+      forceInternal: true
+
+    - id: group-properties-distribution-tab
+      title: Group Properties Distribution tab
+      href: /tutorial/tutorial.html#group-properties-distribution-tab
+      forceInternal: true
+
+    - id: group-properties-notifications-tab
+      title: Group Properties Notifications Tab
+      href: /tutorial/tutorial.html#group-properties-notifications-tab
+      forceInternal: true
+
+    - id: group-properties-send-utilities
+      title: Group Properties Send Utilities
+      href: /tutorial/tutorial.html#group-properties-send-utilities
+      forceInternal: true
+
+    - id: group-properties-publisher-mode
+      title: Group Properties Publisher Mode
+      href: /tutorial/tutorial.html#group-properties-publisher-mode
+      forceInternal: true
+
+    - id: group-working-mode-publisher
+      title: Group Working Mode Publisher
+      href: /tutorial/tutorial.html#group-working-mode-publisher
+      forceInternal: true
+
+    - id: group-properties-import-ldap-groups
+      title: Group Properties Import LDAP Groups
+      href: /tutorial/tutorial.html#group-properties-import-ldap-groups
+      forceInternal: true
+
+    - id: group-properties-permissions
+      title: Group Properties Permissions
+      href: /tutorial/tutorial.html#group-properties-permissions
+      forceInternal: true
+
+    - id: how-to-create-safe-spaces
+      title: How To Create Safe Spaces
+      href: /tutorial/tutorial.html#how-to-create-safe-spaces
+      forceInternal: true
+
+    - id: about-shared-access
+      title: About Shared Access
+      href: /tutorial/tutorial.html#about-shared-access
+      forceInternal: true
+
+    - id: about-folder-mode
+      title: About Folder Mode
+      href: /tutorial/tutorial.html#about-folder-mode
+      forceInternal: true
+
+    - id: how-to-display-all-safe-spaces
+      title: How To Display All Safe Spaces
+      href: /tutorial/tutorial.html#how-to-display-all-safe-spaces
+      forceInternal: true
+
+    - id: safe-space-security
+      title: Safe Space Security
+      href: /tutorial/tutorial.html#safe-space-security
+      forceInternal: true
+
+    - id: safe-space-identity
+      title: Safe Space Identity
+      href: /tutorial/tutorial.html#safe-space-identity
+      forceInternal: true
+
+    - id: safe-space-advanced-settings
+      title: Safe Space Advanced Settings
+      href: /tutorial/tutorial.html#safe-space-advanced-settings
+      forceInternal: true
+
+    - id: how-to-encrypt-files-uploaded-to-a-safe-space
+      title: How To Encrypt Files Uploaded To A Safe Space
+      href: /tutorial/tutorial.html#how-to-encrypt-files-uploaded-to-a-safe-space
+      forceInternal: true
+
+    - id: how-to-manage-encryption-keys-for-shared-safe-spaces
+      title: How To Manage Encryption Keys For Shared Safe Spaces
+      href: /tutorial/tutorial.html#how-to-manage-encryption-keys-for-shared-safe-spaces
+      forceInternal: true
+
+    - id: how-to-grant-permissions-on-specific-safe-spaces
+      title: How To Grant Permissions On Specific Safe Spaces
+      href: /tutorial/tutorial.html#how-to-grant-permissions-on-specific-safe-spaces
+      forceInternal: true
+
+    - id: how-to-enable-file-Type-filtering
+      title: How To Enable File Type Filtering
+      href: /tutorial/tutorial.html#how-to-enable-file-Type-filtering
+      forceInternal: true
+
+    - id: how-to-create-an-outlook-archive-safe-space
+      title: How To Create An Outlook Archive Safe Space
+      href: /tutorial/tutorial.html#how-to-create-an-outlook-archive-safe-space
+      forceInternal: true
+
+    - id: how-to-create-policies
+      title: How To Create Policies
+      href: /tutorial/tutorial.html#how-to-create-policies
+      forceInternal: true
+
+    - id: related-documentation
+      title: Related Documentation
+      href: /tutorial/tutorial.html#related-documentation
+      forceInternal: true
+
+    - id: create-a-new-policy
+      title: Create A New Policy
+      href: /tutorial/tutorial.html#create-a-new-policy
+      forceInternal: true
+
+    - id: new-policy-permissions
+      title: New Policy Permissions
+      href: /tutorial/tutorial.html#new-policy-permissions
+      forceInternal: true
+
+    - id: new-policy-file-types
+      title: New Policy File Types
+      href: /tutorial/tutorial.html#new-policy-file-types
+      forceInternal: true
+
+    - id: edit-policy-permissions
+      title: Edit Policy Permissions
+      href: /tutorial/tutorial.html#edit-policy-permissions
+      forceInternal: true
+
+    - id: disable-a-policy
+      title: Disable a Policy
+      href: /tutorial/tutorial.html#disable-a-policy
+      forceInternal: true
+
+    - id: how-to-create-and-apply-roles
+      title: How To Create And Apply Roles
+      href: /tutorial/tutorial.html#how-to-create-and-apply-roles
+      forceInternal: true
+
+    - id: roles-web-page
+      title: Roles Web Page
+      href: /tutorial/tutorial.html#roles-web-page
+      forceInternal: true
+
+    - id: about-objects
+      title: About Objects
+      href: /tutorial/tutorial.html#about-objects
+      forceInternal: true
+
+    - id: objects-managed-with-the-safe-t-sde-administration-console
+      title: Objects Managed With The Safe-T SDE Administration Console
+      href: /tutorial/tutorial.html#objects-managed-with-the-safe-t-sde-administration-console
+      forceInternal: true
+
+    - id: objects-managed-with-the-safe-t-sde-configuration-tool
+      title: Objects Managed WIth The Safe-T SDE Configuration Tool
+      href: /tutorial/tutorial.html#objects-managed-with-the-safe-t-sde-configuration-tool
+      forceInternal: true
+
+    - id: about-object-dependencies
+      title: About Object Dependencies
+      href: /tutorial/tutorial.html#about-object-dependencies
+      forceInternal: true
+
+    - id: principle-of-least-privilege
+      title: Principle Of Least Privilege
+      href: /tutorial/tutorial.html#principle-of-least-privilege
+      forceInternal: true
+
+    - id: how-to-create-a-new-administrator
+      title: How To Create A New Administrator
+      href: /tutorial/tutorial.html#how-to-create-a-new-administrator
+      forceInternal: true
+
+    - id: configure-group-permissions-then-user-permissions
+      title: Configure Group Permissions Then User Permissions
+      href: /tutorial/tutorial.html#configure-group-permissions-then-user-permissions
+      forceInternal: true
+
+    - id: how-to-create-new-role
+      title: How To Create A New Role
+      href: /tutorial/tutorial.html#how-to-create-new-role
+      forceInternal: true
+
+    - id: how-to-grant-a-group-permissions-defined-in-a-role
+      title: How To Grant A Group Permissions Defined In A Role
+      href: /tutorial/tutorial.html#how-to-grant-a-group-permissions-defined-in-a-role
+      forceInternal: true
+
+    - id: how-to-grant-a-user-permissions
+      title: How To Grant A User Permissions
+      href: /tutorial/tutorial.html#how-to-grant-a-user-permissions
+      forceInternal: true
+
+    - id: how-to-grant-permissions-on-specific-safe-spaces-policies-and-groups
+      title: How To Grant Permissions on Specific Safe Spaces Policies and Groups
+      href: /tutorial/tutorial.html#how-to-grant-permissions-on-specific-safe-spaces-policies-and-groups
+      forceInternal: true
+
+    - id: how-to-generate-reports
+      title: How To Generate Reports
+      href: /tutorial/tutorial.html#how-to-generate-reports
+      forceInternal: true
+
+    - id: report-example
+      title: Report Example
+      href: /tutorial/tutorial.html#report-example
+      forceInternal: true
+
+    - id: report-window
+      title: Report Window
+      href: /tutorial/tutorial.html#report-window
+      forceInternal: true
+
+    - id: create-a-new-report
+      title: Create A New Report
+      href: /tutorial/tutorial.html#create-a-new-report
+      forceInternal: true
+
+    - id: schedule-a-recurring-report
+      title: Schedule A Recurring Report
+      href: /tutorial/tutorial.html#schedule-a-recurring-report
+      forceInternal: true
+      
+    - id: how-to-audit-administrative-actions
+      title: How To Audit Administrative Actions
+      href: /tutorial/tutorial.html#how-to-audit-administrative-actions
+      forceInternal: true
+      
+    - id: audit-window
+      title: Audit Window
+      href: /tutorial/tutorial.html#audit-window
+      forceInternal: true
+      
+    - id: filters
+      title: Filters
+      href: /tutorial/tutorial.html#filters
+      forceInternal: true
+      
+    - id: how-to-block-access-to-sent-packages
+      title: How To Block Access To Sent Packages
+      href: /tutorial/tutorial.html#how-to-block-access-to-sent-packages
+      forceInternal: true
+      
+    - id: how-to-connect-to-the-organization-smtp-server
+      title: How To Connect to the Organization’s SMTP Server 
+      href: /tutorial/tutorial.html#how-to-connect-to-the-organization-smtp-server
+      forceInternal: true
+    - id: smtp-server-no-authentication
+      title: "SMTP Server: No Authentication"
+      href: /tutorial/tutorial.html#smtp-server-no-authentication
+      forceInternal: true
+
+    - id: smtp-server-windows-authentication
+      title: "SMTP Server: Windows Authentication"
+      href: /tutorial/tutorial.html#smtp-server-windows-authentication
+      forceInternal: true
+
+    - id: how-to-enable-sending-sms-otp-messages
+      title: How To Enable Sending SMS/OTP Messages
+      href: /tutorial/tutorial.html#how-to-enable-sending-sms-otp-messages
+      forceInternal: true
+
+    - id: email-path-with-sms-otp
+      title: Email Path With SMS OTP
+      href: /tutorial/tutorial.html#email-path-with-sms-otp
+      forceInternal: true
+
+    - id: how-to-set-an-email-address-for-receiving-notifications
+      title: How To Set An Email Address For Receiving Notifications
+      href: /tutorial/tutorial.html#how-to-set-an-email-address-for-receiving-notifications
+      forceInternal: true
+
+
+    - id: how-to-customize-the-safe-t-iis-website
+      title: How To Customize the Safe-T IIS Website
+      href: /tutorial/tutorial.html#how-to-customize-the-safe-t-iis-website
+      forceInternal: true
+
+
+    - id: default-and-group-webskins
+      title: Default and Group Webskins
+      href: /tutorial/tutorial.html#default-and-group-webskins
+      forceInternal: true
+
+
+    - id: customizing-the-default-webskin
+      title: Customizing the Default Webskin
+      href: /tutorial/tutorial.html#customizing-the-default-webskin
+      forceInternal: true
+
+
+    - id: customizing-a-group-webskin
+      title: Customizing a Group Webskin
+      href: /tutorial/tutorial.html#customizing-a-group-webskin
+      forceInternal: true
+
+
+    - id: example-customize-the-safe-t-login-web-page
+      title: "Example: Customize The Safe-T Login Web Page"
+      href: /tutorial/tutorial.html#example-customize-the-safe-t-login-web-page
+      forceInternal: true
+
+
+    - id: advanced-server-configuration
+      title: Advanced Server Configuration
+      href: /tutorial/tutorial.html#advanced-server-configuration
+      forceInternal: true
+
+
+    - id: system-parameters
+      title: System Parameters
+      href: /tutorial/tutorial.html#system-parameters
+      forceInternal: true
+
+
+    - id: how-to-manage-safe-t-sde-licenses
+      title: How To Manage Safe-T SDE Licenses
+      href: /tutorial/tutorial.html#how-to-manage-safe-t-sde-licenses
+      forceInternal: true
+
+
+    - id: request-and-activate-license-Overview
+      title: Request and Activate License Overview
+      href: /tutorial/tutorial.html#request-and-activate-license-Overview
+      forceInternal: true
+
+
+    - id: current-license-information
+      title: Current License Information
+      href: /tutorial/tutorial.html#current-license-information
+      forceInternal: true
+
+
+    - id: how-to-activate-the-licenses
+      title: How to Activate The Licenses
+      href: /tutorial/tutorial.html#how-to-activate-the-licenses
+      forceInternal: true
+
+
+    - id: how-to-assign-licenses-to-groups-and-users
+      title: How To Assign Licenses To Groups And Users
+      href: /tutorial/tutorial.html#how-to-assign-licenses-to-groups-and-users
+      forceInternal: true
+
+
+    - id: license-web-page
+      title: License Web Page
+      href: /tutorial/tutorial.html#license-web-page
+      forceInternal: true
+
+
+    - id: group-properties-web-page
+      title: Group Properties Web Page
+      href: /tutorial/tutorial.html#group-properties-web-page
+      forceInternal: true
+
+
+    - id: policies-web-page
+      title: Policies Web Page
+      href: /tutorial/tutorial.html#policies-web-page
+      forceInternal: true
+
+
+    - id: deployment-options
+      title: Deployment Options
+      href: /tutorial/tutorial.html#deployment-options
+      forceInternal: true
+
+
+    - id: standard-deployment
+      title: Standard Deployment
+      href: /tutorial/tutorial.html#standard-deployment
+      forceInternal: true
+
+
+    - id: two-companies-share-a-safe-space
+      title: Two Companies Share a Safe Space
+      href: /tutorial/tutorial.html#two-companies-share-a-safe-space
+      forceInternal: true
+
+
+    - id: how-to-schedule-jobs-to-upload-and-download-files
+      title: How To Schedule Jobs To Upload And Download Files
+      href: /tutorial/tutorial.html#how-to-schedule-jobs-to-upload-and-download-files
+      forceInternal: true
+
+
+    - id: how-create-multiple-tasks
+      title: How Create Multiple Tasks
+      href: /tutorial/tutorial.html#how-create-multiple-tasks
+      forceInternal: true
+
+
+    - id: Backup-and-restore-the-safe-t-sde-virtual-machine
+      title: Backup And Restore The Safe-T SDE Virtual Machine
+      href: /tutorial/tutorial.html#Backup-and-restore-the-safe-t-sde-virtual-machine
+      forceInternal: true
+
+
+    - id: why-you-should-create-vm-backups
+      title: Why You Should Create VM Backups
+      href: /tutorial/tutorial.html#why-you-should-create-vm-backups
+      forceInternal: true
+
+
+    - id: best-practices-for-backup-restore-safe-t-sde
+      title: Best Practices For Backup/Restore Safe-T SDE
+      href: /tutorial/tutorial.html#best-practices-for-backup-restore-safe-t-sde
+      forceInternal: true
+
+
+    - id: vm-clone-backup
+      title: VM Clone Backup
+      href: /tutorial/tutorial.html#vm-clone-backup
+      forceInternal: true
+
+
+    - id: backup-volatile-data
+      title: Backup Volatile Data
+      href: /tutorial/tutorial.html#backup-volatile-data
+      forceInternal: true
+
+
+
+    - id: files-you-must-separately-back-up
+      title: Files You Must Separately Back Up
+      href: /tutorial/tutorial.html#files-you-must-separately-back-up
+      forceInternal: true
+
+
+
+
+    - id: restore-full-safe-t-sde-operation
+      title: Restore Full Safe-T SDE Operation
+      href: /tutorial/tutorial.html#restore-full-safe-t-sde-operation
+      forceInternal: true
+
+
+
+
+    - id: frequency-of-volatile-file-backups
+      title: Frequency Of Volatile File Backups
+      href: /tutorial/tutorial.html#frequency-of-volatile-file-backups
+      forceInternal: true
+
+
+
+
+    - id: off-Site-backups
+      title: Off-Site Backups
+      href: /tutorial/tutorial.html#off-Site-backups
+      forceInternal: true
+
+
+
+
+    - id: test-your-restore-procedure
+      title: Test Your Restore Procedure
+      href: /tutorial/tutorial.html#test-your-restore-procedure
+      forceInternal: true
+
+
+
+
+    - id: implementing-high-vm-availability-using-failover-clustering
+      title: Implementing High VM Availability Using Failover Clustering
+      href: /tutorial/tutorial.html#implementing-high-vm-availability-using-failover-clustering
+      forceInternal: true
+
+
+
+
+    - id: reference-section
+      title: Reference Section
+      href: /tutorial/tutorial.html#reference-section
+      forceInternal: true
+
+
+
+
+    - id: policy-parameters
+      title: Policy Parameters
+      href: /tutorial/tutorial.html#policy-parameters
+      forceInternal: true
+
+
+
+
+    - id: admin-tasks-by-interface
+      title: Admin Tasks By Interfac
+      href: /tutorial/tutorial.html#admin-tasks-by-interface
+      forceInternal: true
+
+
+
+
+    - id: safe-t-windows-services
+      title: Safe-T Windows Services
+      href: /tutorial/tutorial.html#safe-t-windows-services
+      forceInternal: true
+
+
+
+
+    - id: installation-folder-structure
+      title: Installation Folder Structure
+      href: /tutorial/tutorial.html#installation-folder-structure
+      forceInternal: true
+
+
+
+
+    - id: enabling-safe-space-working-folder
+      title: Enabling Safe Space Working Folder
+      href: /tutorial/tutorial.html#enabling-safe-space-working-folder
+      forceInternal: true
+
+
+
+
+    - id: enabling-multi-language-support
+      title: Enabling Multi-language Support
+      href: /tutorial/tutorial.html#enabling-multi-language-support
+      forceInternal: true
+
+
+
+
+    - id: enabling-captchas
+      title: Enabling Captchas
+      href: /tutorial/tutorial.html#enabling-captchas
+      forceInternal: true
+
+
+
+
+
+    - id: enabling-file-attachments-auto-download
+      title: Enabling File Attachments Auto Download
+      href: /tutorial/tutorial.html#enabling-file-attachments-auto-download
+      forceInternal: true
+
+
+
+
+
+    - id: error-message-graphic-format
+      title: Error Message Graphic Format
+      href: /tutorial/tutorial.html#error-message-graphic-format
+      forceInternal: true
+
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+- title: User Guides
+  items:
+    - id: registration
+      title: Registration
+    - id: outlook
+      title: Outlook Plugin
+    # - id: videos
+    #   title: Videos
+
