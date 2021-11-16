@@ -223,7 +223,7 @@ const Header = ({location}: {location: Location}) => (
               Languages
             </span>
           </Link> */}
-          {/* <a
+          <a
             css={{
               padding: '5px 10px',
               marginLeft: 10,
@@ -244,18 +244,18 @@ const Header = ({location}: {location: Location}) => (
                 display: 'none',
               },
             }}
-            href="https://github.com/facebook/react/"
+            href="https://document-sde.web.app"
             target="_blank"
             rel="noopener">
-            GitHub
-            <ExternalLinkSvg
+           TerraZone Help Center
+            {/* <ExternalLinkSvg
               cssProps={{
                 marginLeft: 5,
                 verticalAlign: -2,
                 color: colors.subtle,
               }}
-            />
-          </a> */}
+            /> */}
+          </a>
         </div>
       </div>
     </Container>

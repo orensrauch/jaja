@@ -46,10 +46,10 @@ const ButtonLink = ({children, type, ...rest}) => {
 
 const style = {
   display: 'inline-block',
-  fontSize: 16,
+  fontSize: 20,
 
   [media.greaterThan('xlarge')]: {
-    fontSize: 20,
+    fontSize: 30,
   },
 };
 

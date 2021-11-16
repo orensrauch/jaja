@@ -158,6 +158,7 @@ class Home extends Component {
                         css={{
                           flexWrap: 'wrap',
                           justifyContent: 'center',
+                     
                         }}>
                         <CtaItem>
                           <ButtonLink to="/community/start.html" type="primary">
@@ -209,7 +210,7 @@ class Home extends Component {
                       marginTop: 0,
                       marginBottom: 0,
                       overflowX: 'auto',
-                      paddingTop: 30,
+                      paddingTop: 20,
                       WebkitOverflowScrolling: 'touch',
                       position: 'relative',
                       maskImage:
@@ -266,11 +267,11 @@ class Home extends Component {
                               // Make specificity higher than the site-wide h3 styles.
                               color: colors.subtle,
                               paddingTop: 0,
-                              fontWeight: 300,
+                              fontWeight: 700,
                               fontSize: 20,
 
                               [media.greaterThan('xlarge')]: {
-                                fontSize: 24,
+                                fontSize: 30,
                               },
                             },
                           },
@@ -311,7 +312,7 @@ class Home extends Component {
             </div>
           </Container>
 
-          <section
+          {/* <section
             css={{
               background: colors.dark,
               color: colors.white,
@@ -343,9 +344,9 @@ class Home extends Component {
                 </CtaItem>
               </Flex>
             </Container>
-          </section>
+          </section> */}
         </div>
-      </Layout>
+      </Layout> 
     );
   }
 }
