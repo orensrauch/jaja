@@ -119,7 +119,7 @@ class Home extends Component {
                         fontSize: 60,
                       },
                     }}>
-                    SDE
+                    Secure Data Exchange
                   </h1>
                   <p
                     css={{
@@ -143,6 +143,32 @@ class Home extends Component {
                     }}>
                     Documentation
                   </p>
+
+                  <section
+                    css={{
+                      background: colors.dark,
+                      color: colors.white,
+                      paddingTop: 45,
+                      paddingBottom: 25,
+                    }}>
+                    <Container>
+                      <Flex
+                        valign="center"
+                        halign="center"
+                        css={{
+                          flexWrap: 'wrap',
+                          justifyContent: 'center',
+                        }}>
+                        <CtaItem>
+                          <ButtonLink to="/community/start.html" type="primary">
+                            Start Working With SDE
+                          </ButtonLink>
+                        </CtaItem>
+                      </Flex>
+                    </Container>
+                  </section>
+
+
                   <Flex
                     valign="center"
                     halign="center"
@@ -158,12 +184,12 @@ class Home extends Component {
                     <CtaItem>
                       <ButtonLink
                         to="/community/registration.html"
-                        type="primary">
+                        type="secondary">
                         User Guide
                       </ButtonLink>
                     </CtaItem>
                     <CtaItem>
-                      <ButtonLink to="/tutorial/tutorial.html" type="primary">
+                      <ButtonLink to="/tutorial/tutorial.html" type="secondary">
                         Admin Guide
                       </ButtonLink>
                     </CtaItem>
@@ -300,6 +326,11 @@ class Home extends Component {
                   flexWrap: 'wrap',
                   justifyContent: 'center',
                 }}>
+                <CtaItem>
+                  <ButtonLink to="/community/registration.html" type="primary">
+                    Start Working With SDE
+                  </ButtonLink>
+                </CtaItem>
                 <CtaItem>
                   <ButtonLink to="/community/registration.html" type="primary">
                     User Guide

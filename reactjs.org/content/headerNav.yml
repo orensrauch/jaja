@@ -8,7 +8,5 @@ items:
   - title: Admin
     to: /tutorial/tutorial.html
     activeSelector: /tutorial
-  - title: Outlook Plugin
-    to: /community/outlook.html
-    activeSelector: /community/outlook.html
+
 

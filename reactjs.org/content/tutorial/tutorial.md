@@ -12,7 +12,7 @@ redirect_from:
   - "docs/tutorial-zh-CN.html"
 ---
 
-Administrator’s Guide
+**Administrator’s Guide**
 
 ## Document Information {#document-information}
 
@@ -1144,6 +1144,8 @@ The Notification feature allows you to send email alerts to a recipients list. T
 •	**Add Related Group**: Add the related group(s) for notification alerts.
 
 ## Group Properties Send Utilities {#group-properties-send-utilities}
+
+### More detailed admin manual of this method is available [Here](https://document-sde.web.app/community/send-registration.html)
 
 Groups > Send Utilities enables an administrator to send end users credentials, installation files for the Safe-T Outlook Plug-in, and other client utilities.
 
@@ -3679,5 +3681,7 @@ To customize the appearance of an external tool error message:
 3.	In an HTML editor, make changes to the file: NotificationTemplate_bodyContent.htm
 
 4.	Save the file.
+
+
 
 

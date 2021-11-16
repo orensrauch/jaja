@@ -1,9 +1,11 @@
 - title: User Guides
   items:
+    - id: start
+      title: Start Using SDE
     - id: registration
       title: Registration
     - id: outlook
       title: Outlook Plugin
-    # - id: videos
-    #   title: Videos
+    - id: web-portal
+      title: Web Portal
 

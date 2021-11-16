@@ -91,7 +91,7 @@ const Header = ({location}: {location: Location}) => (
               color: 'inherit',
               marginLeft: 10,
               fontWeight: 700,
-              fontSize: 20,
+              fontSize: 30,
               lineHeight: '20px',
               [media.lessThan('large')]: {
                 fontSize: 16,
